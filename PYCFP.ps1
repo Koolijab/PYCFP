@@ -1,7 +1,7 @@
 # Created by: Koolijab
 # Created at: 10.04.2025
 
-#To use this you must have Imagemagick 7+ installed.
+#To use this you must have ImageMagick 7+ installed.
 
 
 # ==== Request input ====
